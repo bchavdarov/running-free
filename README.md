@@ -5,4 +5,4 @@ When activated this plugin will display a random verse from the song in the uppe
 
 ## Installation
 
-To install the plugin copy the file `running-free.php` directly to your wordpress wp-content/plugins folder. Then go to the Dashboard/Plugins and activate the plugin. That's it. Enjoy working with Wordpress. 
+To install the plugin copy the file `running-free.php` directly to your wordpress `wp-content/plugins` folder. Then go to the Dashboard/Plugins and activate the plugin. That's it. Enjoy working with Wordpress. 
